@@ -16,7 +16,7 @@ const PORT = process.env.PORT || 3000;
 
 
 //MongoDB Compass connection
-MONGODB_URL = "mongodb+srv://durgaprasad:software@cluster0.i4ireyu.mongodb.net/";
+MONGODB_URL = "(urs mongodb url)";
 mongoose.connect(MONGODB_URL)
 const conn = mongoose.connection;
 
