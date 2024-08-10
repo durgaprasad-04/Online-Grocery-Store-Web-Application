@@ -1,0 +1,80 @@
+{
+  "p0": {
+    "title": "fresho! Cauliflower 1 pc (approx. 400 to 600 g)",
+    "price": "80",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000074_19-fresho-cauliflower.jpg?tr=w-3840,q=80",
+    "description": "Fresh cauliflower, perfect for a variety of dishes. Approx. 400 to 600 grams."
+  },
+  "p1": {
+    "title": "fresho! Carrot - Orange (Loose) 1 kg",
+    "price": "45",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000070_15-fresho-carrot-orange.jpg?tr=w-3840,q=80",
+    "description": "Fresh orange carrots, loose. 1 kg.",
+    "discount": "15% OFF"
+  },
+  "p2": {
+    "title": "fresho! Capsicum - Green (Loose) 1 kg",
+    "price": "90",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000067_24-fresho-capsicum-green.jpg?tr=w-3840,q=80",
+    "description": "Fresh green capsicum, loose. 1 kg.",
+    "discount": "10% OFF"
+  },
+  "p3": {
+    "title": "fresho! Onion (Loose) 2 kg",
+    "price": "50",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000149_14-fresho-onion.jpg?tr=w-3840,q=80",
+    "description": "Fresh onions, loose. 2 kg.",
+    "discount": "20% OFF"
+  },
+  "p4": {
+    "title": "Fortune Sunlite Refined Sunflower Oil 1 L",
+    "price": "120",
+    "image": "https://www.jiomart.com/images/product/original/490000052/fortune-sunlite-refined-sunflower-oil-1-l-product-images-o490000052-p490000052-0-202203150155.jpg?im=Resize=(360,360)",
+    "description": "Fortune Sunlite Refined Sunflower Oil 1 L. Perfect for everyday cooking and deep frying."
+
+  },
+  "p5": {
+    "title": "Tata Iodised Salt 1 kg",
+    "price": "20",
+    "image": "https://www.jiomart.com/images/product/original/490000073/tata-iodised-salt-1-kg-product-images-o490000073-p490000073-0-202302131739.jpg?im=Resize=(360,360)",
+    "description": "Tata Iodised Salt 1 kg. Essential for a balanced diet and taste enhancement."
+  },
+  "p6": {
+    "title": "Thums Up 2.25 L",
+    "price": "85",
+    "image": "https://www.jiomart.com/images/product/original/490005134/thums-up-2-25-l-product-images-o490005134-p490005134-0-202210071752.jpg?im=Resize=(420,420)",
+    "description": "Thums Up 2.25 L. Enjoy the strong taste of Thums Up."
+  },
+  "p7": {
+    "title": "Maggi 2-Minute Masala Noodles 70 g",
+    "price": "12",
+    "image": "https://www.jiomart.com/images/product/original/490000363/maggi-2-minute-masala-noodles-70-g-product-images-o490000363-p490000363-0-202305292130.jpg?im=Resize=(420,420)",
+    "description": "Maggi 2-Minute Masala Noodles 70 g. Enjoy the classic taste of Maggi noodles with a masala twist."
+  },
+  "p8": {
+    "title": "Amul Butter 500 g (Carton)",
+            "price": "235",
+            "image": "https://www.jiomart.com/images/product/original/490001392/amul-butter-500-g-carton-product-images-o490001392-p490001392-0-202203152128.jpg?im=Resize=(360,360)",
+            "description": "Amul Butter 500 g (Carton). Creamy and delicious butter for your breakfast and baking needs."
+        },
+  
+  "p9": {
+    "title": "Britannia Toastea Premium Bake Rusk 182 g",
+            "price": "40",
+            "image": "https://www.jiomart.com/images/product/original/490007738/britannia-toastea-premium-bake-rusk-182-g-product-images-o490007738-p490007738-0-202203170920.jpg?im=Resize=(420,420)",
+            "description": "Britannia Toastea Premium Bake Rusk 182 g. Crunchy and tasty rusk for your tea time."
+  },
+  "p10": {
+    "title": "Aashirvaad Select Sharbati Wheat Atta 5 kg",
+            "price": "200",
+            "image": "https://www.jiomart.com/images/product/original/490005641/aashirvaad-select-sharbati-whole-wheat-atta-5-kg-product-images-o490005641-p490005641-0-202302181712.jpg?im=Resize=(420,420)",
+            "description": "Aashirvaad Select Sharbati Wheat Atta 5 kg. High-quality wheat flour for soft and fluffy rotis."
+  },
+  "p11": {
+    "title": "Nescafe Classic Instant Coffee 45 g",
+            "price": "320",
+            "image": "https://www.jiomart.com/images/product/original/490001207/nescafe-classic-instant-coffee-45-g-product-images-o490001207-p490001207-0-202309072357.jpg?im=Resize=(360,360)",
+            "description": "Nescafe Classic Instant Coffee 45 g. Rich and aromatic coffee for a perfect start to your day."
+  }
+}
+
